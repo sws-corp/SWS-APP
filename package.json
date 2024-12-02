@@ -1,22 +1,15 @@
 {
-  "name": "electron-quick-start",
+  "name": "swsapp",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "application for the night of info 2024, SWS Corp team",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "repository": "https://github.com/sws-corp/SWS-APP",
+  "author": "SWS-Corp",
   "devDependencies": {
-    "electron": "^33.2.1"
+    "electron": "^33.2.1",
+    "electron-reload": "^2.0.0-alpha.1"
   }
 }
