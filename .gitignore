@@ -1,15 +1,1 @@
-# Fichiers de build
-bin/
-obj/
-
-# Fichiers spécifiques à l'IDE
-.idea/
-.vscode/
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Fichiers de dépendances locales
-packages/
-node_modules/
+node_modules
